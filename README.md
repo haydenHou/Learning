@@ -1,3 +1,3 @@
 # Learning
 
-### 关于gitHub的学习之路正式展开
+### 关于gitHub的学习之路正式启程
